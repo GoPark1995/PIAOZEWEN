@@ -1,7 +1,3 @@
-# README
-
-상태: 진행 중
-
-😀 Hello 🐷
+# 😀 Hello 🐷
 
 I'm Ai Engineer
